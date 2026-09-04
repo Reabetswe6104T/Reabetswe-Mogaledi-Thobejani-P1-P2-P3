@@ -35,7 +35,7 @@ RaceDay is a full-stack web-based event management system designed for the South
 
 ## 🎥 YouTube Walkthrough
 
-[Watch the walkthrough video here]https://youtu.be/wDM0rrPzHcc
+[Watch the walkthrough video here]https://youtu.be/007cyRGNuiQ
 
 ## Author
 

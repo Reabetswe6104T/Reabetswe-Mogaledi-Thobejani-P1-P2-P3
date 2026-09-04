@@ -33,9 +33,9 @@ RaceDay is a full-stack web-based event management system designed for the South
 
 ![Successful Build](screenshot-success.png)
 
-## YouTube Walkthrough
+## 🎥 YouTube Walkthrough
 
-[Watch the walkthrough video here](YOUR_YOUTU# RaceDay Event Management System - Part 1
+[Watch the walkthrough video here](https://youtu.be/YOUR_V# RaceDay Event Management System - Part 1
 
 ## System Description
 RaceDay is a full-stack web-based event management system designed for the South African road running, walking, and cycling community.
@@ -70,9 +70,9 @@ RaceDay is a full-stack web-based event management system designed for the South
 
 ![Successful Build](screenshot-success.png)
 
-## YouTube Walkthrough
+## 🎥 YouTube Walkthrough
 
-[Watch the walkthrough video here](YOUR_YOUTUBE_LINK_HERE)
+[Watch the walkthrough video here](https://youtu.be/YOUR_VIDEO_ID_HERE)
 
 ## Author
 
@@ -80,7 +80,7 @@ RaceDay is a full-stack web-based event management system designed for the South
 
 ## Submission Date
 
-September 2026BE_LINK_HERE)
+September 2026IDEO_ID_HERE)
 
 ## Author
 
